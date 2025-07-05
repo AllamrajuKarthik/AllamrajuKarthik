@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Karthik!
 
-## 🚀 Cloud-Centric Engineer | ASP.NET Developer | Microsoft Stack Enthusiast
+## 🚀 Cloud-Centric Engineer | ASP.NET Developer | Python Developer | Microsoft Stack Enthusiast
 
 I'm a Computer Science engineer with a burning passion for **Cloud Computing**—especially **Microsoft Azure**. I love building clean, scalable backend solutions using **C#**, **ASP.NET Core**, and **SQL Server**, and I'm constantly exploring how to deliver powerful apps with efficient cloud integration.
 
