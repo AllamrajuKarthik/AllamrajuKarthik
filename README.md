@@ -21,8 +21,8 @@ I'm currently building:
 I believe in building **real, working software** that helps people and solves actual problems. I care about **performance**, **clarity**, and **maintainability**—and I hate bloated, over-engineered code.
 
 ### 📬 Let's Connect
-If you're into **Azure**, **cloud-native apps**, or just want to talk about **F1**, **WEC Hypercars**, or **Japanese litre bikes**, I’m always up for it.
-I've mentioned my linkeIn at the end.
+If you're into **Azure**, **cloud-native apps**, or just want to talk about **Motorsports** I’m always up for it.
+I've mentioned my linkedIn at the end.
 
 ---
 
